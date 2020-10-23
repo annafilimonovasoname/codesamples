@@ -1,0 +1,1 @@
+This is a sample anonymized webservice code that I created for 1 of my past projects. The code accepts json with some nested structures and performs various but typical validations. That is why I made a decision to make the validation and error handling process as abstract as possible and execute same interfaces against root and nested structures.

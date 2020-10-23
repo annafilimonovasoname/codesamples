@@ -1,0 +1,2 @@
+This is a framework that works with different types of sObjects in the same interface. It takes care of limits and can execute insert operation within 1 line.
+Also examples of usage in custom JSON parser.

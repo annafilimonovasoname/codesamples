@@ -1,0 +1,1 @@
+Custom CI/CD related scripts that we made for automated deployment. The aim was not to deploy the whole repository every time but to identify only needed files and deploy only them.
